@@ -3,3 +3,7 @@
 This repo contains my solutions for part3 of the Full stack open 2020 course
 
 https://fullstackopen.com/en/part3
+
+## Link to application
+
+https://frozen-caverns-21000.herokuapp.com/
